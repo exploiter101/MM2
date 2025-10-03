@@ -1,6 +1,6 @@
 
 --[[
-local cloneref = cloneref or loadstring(game:HttpGet(""))()
+local cloneref = cloneref or loadstring(game:HttpGet("https://raw.githubusercontent.com/exploiter101/MM2/refs/heads/main/Open-source/Orion-GB-V2.lua"))()
 local Players = cloneref(game:GetService("Players"))
 print(Players)
 ]]
